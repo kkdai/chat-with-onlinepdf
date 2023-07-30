@@ -10,6 +10,10 @@ The main functions of this application are:
 4. Implement a QA retrieval chain.
 5. Engage in a conversation with the user and generate responses from the application based on the context of the PDF document.
 
+## Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Setup & Installation
 
 Before you proceed, make sure you have Python 3.7 or higher installed.
