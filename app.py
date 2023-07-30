@@ -84,7 +84,7 @@ if not openai_api_key:
     st.stop()
 
 # set the environment variable
-os.environ['OPEN_API_KEY'] = openai_api_key
+os.environ['OPENAI_API_KEY'] = openai_api_key
 
 online_pdf_addr = st.sidebar.text_input("Your online PDF address")
 if not online_pdf_addr:
