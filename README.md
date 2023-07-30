@@ -1,6 +1,6 @@
 # LangChain: Chat with Online PDF Q&A on Heroku
 
-![](./demo.png)
+![](./chatpdf.gif)
 
 The purpose of this repository is to provide a Python Streamlit app that interacts with online PDF documents using a QA mechanism. The application leverages various custom modules from the LangChain library, GPT-3 models, and other resources to perform this task.
 
