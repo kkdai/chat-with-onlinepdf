@@ -1,7 +1,7 @@
 {
   "name": "langchain-streamlit-heroku",
   "description": "Build LangChain PDF Web Chat using Streamlit on heroku",
-  "repository": "https://github.com/kkdai/git@github.com:kkdai/chat-with-onlinepdf",
+  "repository": "https://github.com/kkdai/chat-with-onlinepdf",
   "keywords": [
     "python",
     "Streamlit"
